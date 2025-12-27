@@ -1,0 +1,6 @@
+- How to edit the dashboard -
+
+1. Edit the div with the id "sidebar": remove the placeholder text, update links, and add whatever menu items you need.
+2. Edit the div with the id "main-content" to replace example headings, paragraphs, or images with your own content.
+3. Customize the styling in static/style.css as desired.
+4. Do whatever you want! This project is under the MIT license, so feel free to modify and expand it.
